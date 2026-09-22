@@ -39,5 +39,3 @@ python DSA_Problem_Tracker_GUI.py
 - `README.md` – Project instructions
 
 ---
-
-Made with 💻 by Arun Singh
