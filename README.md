@@ -9,6 +9,11 @@ This is a Python-based DSA Problem Tracker application that helps you log and vi
 - View data visually using a bar chart.
 - GUI version built with `tkinter` for easy interaction.
 
+## 🧰 Tech Stack
+- Python 3
+- JSON (for storage)
+- Tkinter (for GUI)
+- Matplotlib (for charts)
 
 ## 🏁 How to Run
 
